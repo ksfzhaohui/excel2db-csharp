@@ -1,0 +1,18 @@
+E:\SharpDevelop Projects\excel2db\excel2db-read\obj\Debug\excel2db-read.csprojResolveAssemblyReference.cache
+E:\SharpDevelop Projects\excel2db\excel2db-read\bin\Debug\excel2db-read.exe.config
+E:\SharpDevelop Projects\excel2db\excel2db-read\bin\Debug\excel2db-read.exe
+E:\SharpDevelop Projects\excel2db\excel2db-read\bin\Debug\excel2db-read.pdb
+E:\SharpDevelop Projects\excel2db\excel2db-read\obj\Debug\excel2db-read.exe
+E:\SharpDevelop Projects\excel2db\excel2db-read\obj\Debug\excel2db-read.pdb
+E:\SharpProjects\excel2db\excel2db-read\obj\Debug\excel2db-read.csprojResolveAssemblyReference.cache
+E:\SharpProjects\excel2db\excel2db-read\obj\Debug\excel2db-read.exe
+E:\SharpProjects\excel2db\excel2db-read\bin\Debug\excel2db-read.exe.config
+E:\SharpProjects\excel2db\excel2db-read\bin\Debug\excel2db-read.exe
+E:\SharpProjects\excel2db\excel2db-read\bin\Debug\excel2db-read.pdb
+E:\SharpProjects\excel2db\excel2db-read\obj\Debug\excel2db-read.pdb
+D:\ndbtest\excel2db-csharp\excel2db-read\obj\Debug\excel2db-read.csprojResolveAssemblyReference.cache
+D:\ndbtest\excel2db-csharp\excel2db-read\obj\Debug\excel2db-read.exe
+D:\ndbtest\excel2db-csharp\excel2db-read\obj\Debug\excel2db-read.pdb
+D:\ndbtest\excel2db-csharp\excel2db-read\bin\Debug\excel2db-read.exe.config
+D:\ndbtest\excel2db-csharp\excel2db-read\bin\Debug\excel2db-read.exe
+D:\ndbtest\excel2db-csharp\excel2db-read\bin\Debug\excel2db-read.pdb
