@@ -29,11 +29,20 @@ namespace excel2db_read.excel2db
 		}
 		
 		public void init(string filePath) {
-			FileStream aFile = new FileStream(filePath,FileMode.Open);
-			ParseHeader(aFile);
-			ParseColumnName(aFile);
-			ParseColumnType(aFile);
-			ParseData(aFile);
+			FileStream aFile = null;
+			try {
+				aFile = new FileStream(filePath,FileMode.Open);
+				ParseHeader(aFile);
+				ParseColumnName(aFile);
+				ParseColumnType(aFile);
+				ParseData(aFile);
+			} catch (System.IO.IOException e) {
+             	Console.WriteLine("Error reading from {0}. Message = {1}", filePath, e.Message);
+            } finally {
+            	if (aFile != null) {
+                	aFile.Close();
+            	}
+        	}
 		}
 		
 		/*
